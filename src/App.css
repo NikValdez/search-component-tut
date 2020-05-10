@@ -1,0 +1,10 @@
+@import "~antd/dist/antd.css";
+.App {
+  width: 20%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+ul {
+  list-style-type: none;
+}
